@@ -31,6 +31,8 @@ namespace QuanLySinhVien
         {
 
         }
+
+
         XuLy pr = new XuLy(); //tao doi tuong moi 
         private void button6_Click(object sender, EventArgs e)
         {
@@ -68,6 +70,50 @@ namespace QuanLySinhVien
 
             //Goi them pthuc xoa textbox sau khi them sv
             Xoatextbox();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Sinhvien sv = new Sinhvien();
+            sv.manv = txtmasv.Text;
+            sv.hoten = txtHoten.Text;
+            sv.lop = txtLop.Text;
+            sv.diachi = txtDiachi.Text;
+
+            pr.SuaSinhVien(sv);
+            pr.HienThi(gridviewSinhvien);
+
+        }
+
+        private void CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            int i = gridviewSinhvien.SelectedCells[0].RowIndex; // lay ra chi so hang dang dc chon
+            DataGridViewRow row = gridviewSinhvien.Rows[i]; // Lay ra du lieu cua hang 
+
+            //lan luot dua cac cot vao textbox
+            txtmasv.Text = Convert.ToString(row.Cells["masv"].Value);
+            txtHoten.Text = Convert.ToString(row.Cells["hoten"].Value);
+            txtLop.Text = Convert.ToString(row.Cells["lop"].Value);
+            txtDiachi.Text = Convert.ToString(row.Cells["diachi"].Value);
+
+
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Sinhvien s = new Sinhvien();
+            s.manv = txtmasv.Text;
+
+            pr.XoaSinhVien(s);
+            pr.HienThi(gridviewSinhvien); // hien thi lai du lieu sau khi xoa
+        }
+
+        private void btnTimKiem_Click(object sender, EventArgs e)
+        {
+            Sinhvien s = new Sinhvien();
+            s.manv = txtmasv.Text;
+            pr.TimSinhVien(s, gridviewSinhvien);
         }
     }
 }

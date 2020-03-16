@@ -144,6 +144,7 @@
             this.button3.TabIndex = 10;
             this.button3.Text = "Xóa";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button4
             // 
@@ -153,6 +154,7 @@
             this.button4.TabIndex = 11;
             this.button4.Text = "Cập nhật";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // btnTimKiem
             // 
@@ -162,6 +164,7 @@
             this.btnTimKiem.TabIndex = 12;
             this.btnTimKiem.Text = "Tìm Kiếm";
             this.btnTimKiem.UseVisualStyleBackColor = true;
+            this.btnTimKiem.Click += new System.EventHandler(this.btnTimKiem_Click);
             // 
             // button6
             // 
@@ -187,12 +190,14 @@
             this.gridviewSinhvien.RowTemplate.Height = 24;
             this.gridviewSinhvien.Size = new System.Drawing.Size(782, 268);
             this.gridviewSinhvien.TabIndex = 14;
+            this.gridviewSinhvien.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.CellClick);
             // 
             // masv
             // 
             this.masv.HeaderText = "Mã Sinh Vien";
             this.masv.MinimumWidth = 6;
             this.masv.Name = "masv";
+            this.masv.Width = 125;
             // 
             // hoten
             // 

@@ -20,4 +20,9 @@
     <lop>C</lop>
     <diachi>Da Nang</diachi>
   </sinhvien>
+<sinhvien masv="s06">
+    <hoten>Ho Xuan Anh</hoten>
+    <lop>C</lop>
+    <diachi>Da Nang</diachi>
+  </sinhvien>
 </lophoc>

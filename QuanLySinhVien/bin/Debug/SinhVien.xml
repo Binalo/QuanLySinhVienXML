@@ -5,22 +5,17 @@
     <lop>E</lop>
     <diachi>Hue</diachi>
   </sinhvien>
-  <sinhvien masv="s02">
-    <hoten>Nguyen Hoang Anh</hoten>
-    <lop>E</lop>
-    <diachi>Ha Tinh</diachi>
-  </sinhvien>
   <sinhvien masv="s03">
     <hoten>Vo Tran Nhat Binh</hoten>
     <lop>E</lop>
-    <diachi>Hue</diachi>
+    <diachi>Quang Tri</diachi>
   </sinhvien>
-  <sinhvien masv="s04">
+  <sinhvien masv="s06">
     <hoten>Ho Xuan Anh</hoten>
     <lop>C</lop>
     <diachi>Da Nang</diachi>
   </sinhvien>
-  <sinhvien masv="sv05">
+  <sinhvien masv="s05">
     <hoten>Bạch Văn Hải</hoten>
     <lop>E</lop>
     <diachi>Phú Lộc</diachi>
