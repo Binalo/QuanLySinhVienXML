@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\Train C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Train C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Form1.resources
+C:\Users\ADMIN\Desktop\Train C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Train C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Train C#\QuanLySinhVien\QuanLySinhVien\bin\Debug\SinhVien.xml
+C:\Users\ADMIN\Desktop\Train C#\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+C:\Users\ADMIN\Desktop\Train C#\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Users\ADMIN\Desktop\Train C#\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Users\ADMIN\Desktop\Train C#\QuanLySinhVien\QuanLySinhVien\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Desktop\Train C#\QuanLySinhVien\QuanLySinhVien\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\Train C#\QuanLySinhVien\QuanLySinhVien\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Desktop\Train C#\QuanLySinhVien\QuanLySinhVien\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\Train C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Train C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\ADMIN\Desktop\Train C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb

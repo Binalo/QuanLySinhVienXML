@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<lophoc>
+  <sinhvien masv="s01">
+    <hoten>Nguyen Van Dien</hoten>
+    <lop>E</lop>
+    <diachi>Hue</diachi>
+  </sinhvien>
+  <sinhvien masv="s02">
+    <hoten>Nguyen Hoang Anh</hoten>
+    <lop>E</lop>
+    <diachi>Ha Tinh</diachi>
+  </sinhvien>
+  <sinhvien masv="s03">
+    <hoten>Vo Tran Nhat Binh</hoten>
+    <lop>E</lop>
+    <diachi>Hue</diachi>
+  </sinhvien>
+  <sinhvien masv="s04">
+    <hoten>Ho Xuan Anh</hoten>
+    <lop>C</lop>
+    <diachi>Da Nang</diachi>
+  </sinhvien>
+</lophoc>
